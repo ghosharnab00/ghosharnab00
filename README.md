@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ghosharnab00
-- 👀 I’m interested in Blockchain and Web3
-- 🌱 I’m currently learning HTML since I'm a beginner
+- 👀 I’m interested in learning MERN stack and becoming a Full-stack developer
+- 🌱 I’m currently learning React and Node.JS since I'm a beginner
 - 💞️ I’m looking to collaborate on ...
 - 📫 email: ghosharnab00@gmail.com
 
