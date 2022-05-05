@@ -48,9 +48,8 @@ Here are some ideas to get you started:
 </div>
   
 <br />
+ 
 ![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <!---
 ghosharnab00/ghosharnab00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
