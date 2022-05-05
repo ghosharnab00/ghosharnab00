@@ -2,7 +2,7 @@
  
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a content manager at a SaaS strt-up Hiration
+- 🔭 I’m currently working as a content manager at a SaaS start-up Hiration
 - 🌱 I’m currently learning Full-stack Development, Reactjs, Nextjs, Nodejs, HTML, CSS....
 - 👯 I’m looking to collaborate on different projects....
 - 🤔 I’m looking for help to develop my MERN-stack skills
