@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </div>
   
 <br />
-![Snake animation](https://github.com/ghosharnab00/ghosharnab00/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
+![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
 
 
 
