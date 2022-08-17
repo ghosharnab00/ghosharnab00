@@ -1,4 +1,4 @@
- ***Hi there I'm Arnab Ghosh (https://www.linkedin.com/in/arnabghoshwriter)*** 👋
+ ***Hi there I'm Arnab Ghosh (https://www.linkedin.com/in/iamarnabghosh/)*** 👋
  
 Here are some ideas to get you started:
 
