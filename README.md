@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  
 ### ***Connect with me :***
 
-<a href="https://www.linkedin.com/in/arnabghoshwriter">
+<a href="https://www.linkedin.com/in/iamarnabghosh">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:ghosharnab00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
