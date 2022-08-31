@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on different projects....
 - 🤔 I’m looking for help to develop my MERN-stack skills
 - 💬 Read my <a href="https://blog.arnabghosh.me"> blogs <a> on Programming and life
-- 🥅 My current goal is to become a successful **Full-stack Developer**
 - ⚡ Fun fact: Let's talk about gaming.
  
  <br />
